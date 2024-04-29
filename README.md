@@ -9,10 +9,15 @@ Brief description of the project, its purpose, and any key features.
 Table of Contents:-
 
 Installation
+
 Usage
+
 Documentation
+
 Contributing
+
 License
+
 Installation
 
 Instructions on how to install the project. Include any prerequisites and step-by-step installation guide, e.g., using pip:
